@@ -25,3 +25,6 @@
   <a href="https://www.linkedin.com/in/-thiagowilliam" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<img src="https://raw.githubusercontent.com/thiagoaz31/thiagoaz31/output/snake.svg" alt="Snake animation" />
+
+###
